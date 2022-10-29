@@ -6,14 +6,14 @@ wa.me/6285875158363
 
 Minimal Kasih Cr kalo mau reupload😡
 Create By Dika Ardnt.
-Recode By Naze & ( Nama Lu )
+Recode By Naze & ( Ridzz Ganz )
 
 Kalau Sampai Ketemu Lagi Creator Bot
 Yg Reupload Tanpa Kasih Cr 
 Sc Akan Saya Encode
 
 Base : Hisoka
-Recode : Naze & ( Nama Lu )
+Recode : Naze & ( Ridzz Ganz )
 
 **/
 
@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.owner = ['6283852854059']
+global.ownernomer = "6283852854059"
+global.premium = ['6283852854059']
+global.packname = 'Sticker By RidzzBotz'
+global.author = 'Ridzz Ganz'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -66,9 +66,9 @@ global.mygit = 'https://github.com/nazedev'
 global.myyt = 'https://youtube.com/c/Nazedev'
 global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
 global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
+global.botname = 'Ridzz Botz'
+global.akulaku = 'Bot By Ridzz Ganz'
+global.ytname = 'Ridzz Official'
 
 
 let file = require.resolve(__filename)
